@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KETTHUCSUNGHIEP.aternos.me:21328",
+    "ip": "KETTHUCSUNGHIEP.aternos.me",
     "port": 21328,
     "version": "",
     "try-creative": false
